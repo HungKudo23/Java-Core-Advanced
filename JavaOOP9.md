@@ -1,5 +1,5 @@
 # **Chương OOP (Summary)**
-## **Bài 9: Enumeration (Liệt kê cụ thể)**
+## **Bài 9: Enumeration**
 - Từ khóa **`enum`** dùng để khai báo một class chỉ chứa duy nhất các biến dạng hằng (giống **`final`**)
 - Cách khai báo:
 ```java
@@ -49,4 +49,4 @@ public class Main {
         + `public`
         + `static`
         + `final`
-    + `enum` không thể được sử dụng để tạo object, không thể kế thừa class khác, nhưng mà vẫn có thể triển khai `interface` 
+    + `enum` không thể được sử dụng để tạo object, không thể kế thừa class khác, nhưng mà vẫn có thể triển khai `interface`.

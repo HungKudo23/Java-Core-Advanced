@@ -13,9 +13,9 @@ public class Main {
         myNumbers.add(15);
         myNumbers.add(20);
         myNumbers.add(25);
-        
         // Đếm xem mảng có bao nhiêu phần tử
-        System.out.println(myNumbers.size()); // Kết quả: 4
+        myNumbers.size();
+        System.out.println(myNumbers); // Kết quả: 4
 
         // Lấy giá trị của index chỉ định trong mảng
         System.out.println(myNumbers.get(3)); //  Kết quả: 25
