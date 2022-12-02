@@ -1,5 +1,5 @@
 # **Chương Package (Summary)**
-## **Bài 18: Lambda ( Biểu thức Lamda )**
+## **Bài 18: Lambda Expression ( Biểu thức Lamda )**
 #### **( Note: Chỉ có thể sử dụng khi đang dùng JDK 8 trở lên. )**
 - Biểu thức lamda không khác gì một function nhưng chỉ khác là chúng không có tên và có thể viết ngay trong thân phương thức.
 - Cách viết dễ nhất:
